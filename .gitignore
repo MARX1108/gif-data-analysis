@@ -1,0 +1,4 @@
+gifs/*
+data/raw/*
+!.gitignore
+
